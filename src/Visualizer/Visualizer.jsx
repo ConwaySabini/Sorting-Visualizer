@@ -30,7 +30,7 @@ export default class Visualizer extends React.Component {
 
         this.state = {
             array: [],
-            size: 500,
+            size: 300,
         };
     }
 
