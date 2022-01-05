@@ -16,7 +16,7 @@ import './Visualizer.css';
 const SPEED = 1;
 
 // size of array
-const SIZE = 500;
+const SIZE = 300;
 
 // main color
 const COLOR = '#8db596';
