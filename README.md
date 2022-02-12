@@ -6,7 +6,7 @@ Testing and charts for time it took me to execute different implementations of t
 
 Slower Algorithms:
 
-![image](https://user-images.githubusercontent.com/53063791/153731884-4cfac20c-54a9-4c1c-be40-438e0d45a626.png)
+![image](https://user-images.githubusercontent.com/53063791/153731893-07f6888c-1745-46ea-8b31-22388b3dac89.png)
 
 
 Faster Algorithms:
