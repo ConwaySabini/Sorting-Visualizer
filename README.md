@@ -5,10 +5,15 @@ Sorting Algorithms visualized including QuickSort, MergeSort, InsertionSort, She
 Testing and charts for time it took me to execute different implementations of the sorting algorithms.
 
 Slower Algorithms:
+
 ![image](https://user-images.githubusercontent.com/53063791/153731668-461d425e-eeee-478b-920c-eedf5ebbbdf4.png)
 
 
 Faster Algorithms:
+
+![image](https://user-images.githubusercontent.com/53063791/153731860-84ffd4f3-0c39-41a8-b4f2-c918dbef4da0.png)
+
+
 
 
 
